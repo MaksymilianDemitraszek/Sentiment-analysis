@@ -9,4 +9,4 @@
 | 2Layer - Bidirectional GRU       | 0.798       |
 | CNN                | 0.730        |
 | CNN + GloVe        | 0.648        |
-| Bidirectional GRU + SVM        |        |
+| Bidirectional GRU + SVM        |   N/E     |
